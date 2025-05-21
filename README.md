@@ -1,3 +1,4 @@
+![gocmd2](./gocmd2-banner.png)
 # gocmd2
 
 A Go-based interactive shell framework inspired by Python's [cmd2](https://github.com/python-cmd2/cmd2) library. Gocmd2 provides a modular, extensible framework for building interactive command-line applications with rich features.
